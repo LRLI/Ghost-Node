@@ -1,0 +1,3 @@
+# Ghost-Node
+GG
+f
