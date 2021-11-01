@@ -1,3 +1,0 @@
-# Ghost-Node
-GG
-f
